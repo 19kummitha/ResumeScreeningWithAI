@@ -1,0 +1,29 @@
+# Ignore virtual environment
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore dependency management files
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Ignore compiled & cached files
+*.sqlite3
+db.sqlite3
+.DS_Store
+
+# Ignore Uvicorn debug files
+*.pid

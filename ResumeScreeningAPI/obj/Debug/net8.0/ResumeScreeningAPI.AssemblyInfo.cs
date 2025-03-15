@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResumeScreeningAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abc6ae0d3a3321ef4b16dd5a18c49d2103b242e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b055b3f8692d7e40f4265aab1d2f99f57d845e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResumeScreeningAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResumeScreeningAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
