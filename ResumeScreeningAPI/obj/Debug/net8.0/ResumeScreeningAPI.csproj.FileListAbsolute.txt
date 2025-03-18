@@ -258,3 +258,17 @@ C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAP
 C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\obj\Debug\net8.0\ResumeScreeningAPI.pdb
 C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\obj\Debug\net8.0\ResumeScreeningAPI.genruntimeconfig.cache
 C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\obj\Debug\net8.0\ref\ResumeScreeningAPI.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\venka\OneDrive\Desktop\Projects\ResumeScreeningWithAI\ResumeScreeningAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
